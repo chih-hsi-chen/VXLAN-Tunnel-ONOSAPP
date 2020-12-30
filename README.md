@@ -3,4 +3,4 @@ ONOS Application for building vxlan tunnel between workers and public DHCP serve
 
 ## Experiment Topology
 
-![](https://imgur.com/a/70Y6Cl4)
+![](https://i.imgur.com/pJE2U2C.png)
